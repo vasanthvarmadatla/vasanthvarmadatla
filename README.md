@@ -37,5 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanthvarmadatla&show_icons=true&locale=en" alt="vasanthvarmadatla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthvarmadatla&" alt="vasanthvarmadatla" /></p>
-
-
